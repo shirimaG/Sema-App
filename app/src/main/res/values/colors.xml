@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#1976D2</color>
+
+    <!--Other colors-->
+    <color name="numbersBackground">#9C27B0</color>
+    <color name="familyBackground">#8BC34A</color>
+    <color name="colorsBackground">#FF9800</color>
+    <color name="phrasesBackground">#78909C</color>
+    <color name="tan_background">#FFF7DA</color>
+
+
+
+</resources>
